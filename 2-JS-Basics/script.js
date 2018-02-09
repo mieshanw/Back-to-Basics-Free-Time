@@ -21,3 +21,6 @@ isMarried = false;
 console.log(name+ " "+ "is"+ " "+ "a"+" "+ age+ " "+ "year old "+ job); 
 console.log("Is she married?")
 console.log(isMarried);
+
+var yourFeeling = prompt('How are you feeling?');
+console.log("I let Miesha know you're feeling "+yourFeeling);
